@@ -1,0 +1,9 @@
+---,Name,HP,Attack,EXP,Blueprint
+1,"Beholder","100.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster01.BP_Monster01_C'"
+2,"Cactus","100.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster02.BP_Monster02_C'"
+3,"ChestMonster","50.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster03.BP_Monster03_C'"
+4,"Mushroom","50.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster04.BP_Monster04_C'"
+5,"Slime","50.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster05.BP_Monster05_C'"
+6,"Swarm08","30.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster06.BP_Monster06_C'"
+7,"Swarm09","50.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster07.BP_Monster07_C'"
+8,"TurtleShell","20.000000","20.000000","50.000000","/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Monsters/BP_Monster08.BP_Monster08_C'"
